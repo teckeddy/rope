@@ -1,0 +1,7 @@
+//vieport with
+@mixin screen__width($width) {
+    max-width: $width;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    
+}
